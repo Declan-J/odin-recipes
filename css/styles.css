@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(21, 32, 43);
+    color: #ddd;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:link, a:visited {
+    color: #ddd;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    text-align: center;
+}
+
+img{
+    width: 400px;
+    height: auto;
+    aspect-ratio: 1;
+    border: 6px, solid, rgb(21, 45, 43);
+    margin-left: 10px;
+}
